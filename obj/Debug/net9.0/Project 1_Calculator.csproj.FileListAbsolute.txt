@@ -1,0 +1,27 @@
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/bin/Debug/net9.0/appsettings.Development.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/bin/Debug/net9.0/appsettings.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/bin/Debug/net9.0/Project 1_Calculator.staticwebassets.endpoints.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/bin/Debug/net9.0/Project 1_Calculator
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/bin/Debug/net9.0/Project 1_Calculator.deps.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/bin/Debug/net9.0/Project 1_Calculator.runtimeconfig.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/bin/Debug/net9.0/Project 1_Calculator.dll
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/bin/Debug/net9.0/Project 1_Calculator.pdb
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.AssemblyInfoInputs.cache
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.AssemblyInfo.cs
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.csproj.CoreCompileInputs.cache
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.MvcApplicationPartsAssemblyInfo.cache
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/scopedcss/bundle/Project 1_Calculator.styles.css
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/staticwebassets.build.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/staticwebassets.development.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.dll
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/refint/Project 1_Calculator.dll
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.pdb
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.genruntimeconfig.cache
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/ref/Project 1_Calculator.dll
