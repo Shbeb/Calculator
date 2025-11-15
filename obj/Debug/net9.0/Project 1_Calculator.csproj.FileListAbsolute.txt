@@ -25,3 +25,4 @@
 /Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.pdb
 /Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.genruntimeconfig.cache
 /Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/ref/Project 1_Calculator.dll
+/Users/andrewdiaz/Documents/Coding projects/Project 1_Calculator/obj/Debug/net9.0/Project 1_Calculator.sourcelink.json
