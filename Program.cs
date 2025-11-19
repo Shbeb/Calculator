@@ -18,10 +18,10 @@ while (isrunning)
     {
         case "Add":
             Console.WriteLine("Give me a number");
-            x = int.Parse(Console.ReadLine()!);
+            x = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Give me another number");
-            y = int.Parse(Console.ReadLine()!);
+            y = Convert.ToInt32(Console.ReadLine());
             sum = x + y;
 
             Console.WriteLine("The total is " + sum);
@@ -31,13 +31,13 @@ while (isrunning)
             if (next == "Yes")
             {
                 Console.WriteLine("Add another number. Enter 0 to stop");
-                int z = int.Parse(Console.ReadLine()!);
+                int z = Convert.ToInt32(Console.ReadLine()!);
                 while (z != 0)
                 {
                     sum += z;
                     Console.WriteLine(sum);
                     Console.WriteLine("Add another number");
-                    z = int.Parse(Console.ReadLine()!);
+                    z = Convert.ToInt32(Console.ReadLine());
                 }
             }
 
@@ -46,10 +46,10 @@ while (isrunning)
 
         case "Subtract":
             Console.WriteLine("Give me a number");
-            x = int.Parse(Console.ReadLine()!);
+            x = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Give me another number");
-            y = int.Parse(Console.ReadLine()!);
+            y = Convert.ToInt32(Console.ReadLine());
 
             sum = x - y;
             Console.WriteLine("The total is " + sum);
@@ -59,13 +59,13 @@ while (isrunning)
             if (next == "Yes")
             {
                 Console.WriteLine("Subtract another number. Enter 0 to stop");
-                int z = int.Parse(Console.ReadLine()!);
+                int z = Convert.ToInt32(Console.ReadLine());
                 while (z != 0)
                 {
                     sum -= z;
                     Console.WriteLine(sum);
                     Console.WriteLine("Subtract another number");
-                    z = int.Parse(Console.ReadLine()!);
+                    z = Convert.ToInt32(Console.ReadLine());
                 }
             }
 
@@ -73,10 +73,10 @@ while (isrunning)
 
         case "Multiply":
             Console.WriteLine("Give me a number");
-            x = int.Parse(Console.ReadLine()!);
+            x = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Give me another number");
-            y = int.Parse(Console.ReadLine()!);
+            y = Convert.ToInt32(Console.ReadLine());
 
             sum = x * y;
             Console.WriteLine("The total is " + sum);
@@ -86,13 +86,13 @@ while (isrunning)
             if (next == "Yes")
             {
                 Console.WriteLine("Multiply another number. Enter 0 to stop");
-                int z = int.Parse(Console.ReadLine()!);
+                int z = Convert.ToInt32(Console.ReadLine());
                 while (z != 0)
                 {
                     sum *= z;
                     Console.WriteLine(sum);
                     Console.WriteLine("Multiply another number");
-                    z = int.Parse(Console.ReadLine()!);
+                    z = Convert.ToInt32(Console.ReadLine());
                 }
             }
 
@@ -100,14 +100,14 @@ while (isrunning)
 
         case "Divide":
             Console.WriteLine("Give me a number");
-            x = int.Parse(Console.ReadLine()!);
+            x = Convert.ToInt32(Console.ReadLine()!);
 
             Console.WriteLine("Give me another number");
-            y = int.Parse(Console.ReadLine()!);
+            y = Convert.ToInt32(Console.ReadLine()!);
             while (y == 0)
             {
                 Console.WriteLine("Can't divide by zero, enter a new number");
-                y = int.Parse(Console.ReadLine()!);
+                y = Convert.ToInt32(Console.ReadLine()!);
             }
 
             sum = x / y;
@@ -118,13 +118,13 @@ while (isrunning)
             if (next == "Yes")
             {
                 Console.WriteLine("Divide another number. Enter 0 to stop");
-                int z = int.Parse(Console.ReadLine()!);
+                int z = Convert.ToInt32(Console.ReadLine());
                 while (z != 0)
                 {
                     sum /= z;
                     Console.WriteLine(sum);
                     Console.WriteLine("Divide another number");
-                    z = int.Parse(Console.ReadLine()!);
+                    z = Convert.ToInt32(Console.ReadLine());
                 }
             }
 
@@ -138,7 +138,7 @@ while (isrunning)
     Console.WriteLine("Continue? yes or no?");
     con = Console.ReadLine()!;
     con = con.ToLower();
-    if (con == "no") // if the user does not want to continue and says no, then the boolean will become false, stopping the program
+    if (con == "no") 
     {
         isrunning = false;
     }
@@ -148,10 +148,3 @@ Console.WriteLine("Program terminated");
 
 
 
-/* 
-- show available options of equation
-- ensure it doesn't crash if the user presses enter without typing anything
-- safer way to convert user input to numbers
-- Case sensitivity for yes/no
-- enter more than two numbers for operations
-*/
